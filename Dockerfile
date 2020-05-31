@@ -1,5 +1,5 @@
 #para extraer una imagen preconstruida cin nginx y python3
-FROM tiangolo/uwsgi-nginx-flask:python3.7-alpine3.7
+FROM tiangolo/uwsgi-nginx-flask:python3.6-alpine3.7
 
 
 ENV LISTEN_PORT=5000
